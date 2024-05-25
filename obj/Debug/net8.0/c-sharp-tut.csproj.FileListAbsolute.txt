@@ -12,3 +12,4 @@
 /Users/user/Documents/c-sharp-tut/obj/Debug/net8.0/c-sharp-tut.pdb
 /Users/user/Documents/c-sharp-tut/obj/Debug/net8.0/c-sharp-tut.genruntimeconfig.cache
 /Users/user/Documents/c-sharp-tut/obj/Debug/net8.0/ref/c-sharp-tut.dll
+/Users/user/Documents/c-sharp-tut/obj/Debug/net8.0/c-sharp-tut.sourcelink.json
