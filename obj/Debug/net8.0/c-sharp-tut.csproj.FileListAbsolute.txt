@@ -1,0 +1,14 @@
+/Users/user/Documents/c-sharp-tut/obj/Debug/net8.0/c-sharp-tut.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/c-sharp-tut/obj/Debug/net8.0/c-sharp-tut.AssemblyInfoInputs.cache
+/Users/user/Documents/c-sharp-tut/obj/Debug/net8.0/c-sharp-tut.AssemblyInfo.cs
+/Users/user/Documents/c-sharp-tut/obj/Debug/net8.0/c-sharp-tut.csproj.CoreCompileInputs.cache
+/Users/user/Documents/c-sharp-tut/bin/Debug/net8.0/c-sharp-tut
+/Users/user/Documents/c-sharp-tut/bin/Debug/net8.0/c-sharp-tut.deps.json
+/Users/user/Documents/c-sharp-tut/bin/Debug/net8.0/c-sharp-tut.runtimeconfig.json
+/Users/user/Documents/c-sharp-tut/bin/Debug/net8.0/c-sharp-tut.dll
+/Users/user/Documents/c-sharp-tut/bin/Debug/net8.0/c-sharp-tut.pdb
+/Users/user/Documents/c-sharp-tut/obj/Debug/net8.0/c-sharp-tut.dll
+/Users/user/Documents/c-sharp-tut/obj/Debug/net8.0/refint/c-sharp-tut.dll
+/Users/user/Documents/c-sharp-tut/obj/Debug/net8.0/c-sharp-tut.pdb
+/Users/user/Documents/c-sharp-tut/obj/Debug/net8.0/c-sharp-tut.genruntimeconfig.cache
+/Users/user/Documents/c-sharp-tut/obj/Debug/net8.0/ref/c-sharp-tut.dll
