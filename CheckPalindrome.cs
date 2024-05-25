@@ -10,9 +10,9 @@ namespace CheckPalindrome;
 
         static void Main(string [] args){
 
-          Console.WriteLine(HowToCheckPalindrome());     
+         // Console.WriteLine(HowToCheckPalindrome());     
 
-           
+           ArrangeNewArray();
         }
             
 
@@ -39,6 +39,28 @@ namespace CheckPalindrome;
                     return false;
                 }
                 
+            }
+
+
+            public  static void ArrangeNewArray(){
+                string [] movies= new string[4];
+
+                Console.WriteLine("Type in Movie name:  ");
+                for (int i = 0; i < movies.Length; i++)
+                {
+                    
+                    movies[i]= Console.ReadLine();
+                }
+
+                Console.WriteLine("\n Here are the movies name sorted alphabetically ");
+                Array.Sort(movies);
+
+                foreach(string  movieName in movies){
+
+                        Console.WriteLine(movieName);
+                }
+
+
             }
 
 
